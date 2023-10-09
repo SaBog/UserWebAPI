@@ -1,5 +1,7 @@
 ﻿# UserWebApi
 
+![Project Preview](https://github.com/SaBog/UserWebAPI/blob/master/images/preview.png)
+
 - **ASP .NET WEB API (.NET 7)** + **EF Core** + **Swagger** + **JWT**
 - Contains 2 tables User (Id, Name, Email, Age) and Roles (Id, Name) with many-to-many relations;
 - 3 layer architecture (Controller - Service - Repository);
